@@ -22,7 +22,7 @@ it is only for the web version!
 
 
 1. get [stylus](https://add0n.com/stylus.html) extension.
-2. download [moonlight notion](https://github.com/Moonlight-color-theme/notion/raw/main/code/moonlight-notion.user.css).
+2. download [moonlight notion](https://github.com/Moonlight-theme/notion/raw/main/code/moonlight-notion.user.css).
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/eK12XXt.png"> Author</h2>
 
