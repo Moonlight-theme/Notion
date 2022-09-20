@@ -26,9 +26,9 @@ it is only for the web version!
 1. get [stylus](https://add0n.com/stylus.html) extension.
 2. download [moonlight notion](https://github.com/Moonlight-theme/notion/raw/main/code/moonlight-notion.user.css).
 
-### Using Nbundel
+### Using Nbundle
 
-1. get [nbudel](https://www.nbundle.com)
+1. get [nbudle](https://www.nbundle.com)
 2. get [Notion Themes by nbundle.com](https://chrome.google.com/webstore/detail/notion-themes-by-nbundlec/hnkidnkbclkdphjdajkcealmfagonpdl)
 3. go to notion then you will see an icon on the top right click on it, then choose moonlight theme
 
