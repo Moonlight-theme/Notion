@@ -18,11 +18,19 @@
 A simple moonlight theme for Notion.<br>
 it is only for the web version!
 
+
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
+### Using Stylus
 
 1. get [stylus](https://add0n.com/stylus.html) extension.
 2. download [moonlight notion](https://github.com/Moonlight-theme/notion/raw/main/code/moonlight-notion.user.css).
+
+### Using Nbundel
+
+1. get [nbudel](https://www.nbundle.com)
+2. get [Notion Themes by nbundle.com](https://chrome.google.com/webstore/detail/notion-themes-by-nbundlec/hnkidnkbclkdphjdajkcealmfagonpdl)
+3. go to notion then you will see an icon on the top right click on it, then choose moonlight theme
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/eK12XXt.png"> Author</h2>
 
